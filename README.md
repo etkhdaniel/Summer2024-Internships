@@ -47,6 +47,5 @@ To contribute:
 |[RSM](https://jobs.rsmus.com/job/17598319/tax-technology-intern-summer-2024-new-york-ny/)| New York, NY|Tax Technology Intern|
 |[RSM](https://jobs.rsmus.com/job/17580684/oracle-netsuite-consulting-intern-summer-2024-boston-ma/)|Baltimore, MA|Oracle NetSuite Consulting Intern|
 
-+ ## Other Semesters
-+
-+ [Fall 2023](https://github.com/bsovs/Fall2023-Internships)
+## Other Semesters
+[Fall 2023](https://github.com/bsovs/Fall2023-Internships)
