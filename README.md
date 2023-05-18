@@ -36,6 +36,7 @@ To contribute:
 
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
 
+## The List 👔
 
 | Company       | Location       | Position Name                         |
 |---------------|----------------|---------------------------------------|
