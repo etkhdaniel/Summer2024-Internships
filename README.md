@@ -1,5 +1,5 @@
 # Summer2024-Internships
-Collection of Fall 2024 Internships!
+Collection of Summer 2024 Internships!
 
 Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** for developing the inital framework. 
 
