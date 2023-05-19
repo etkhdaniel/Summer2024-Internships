@@ -1,7 +1,7 @@
 # Summer2024-Internships
 Collection of Summer 2024 Internships!
 
-Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** for developing the inital framework. 
+Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](https://github.com/pittcsc) for developing the inital framework and list. 
 
 ---
 
@@ -47,6 +47,7 @@ To contribute:
 |[Gartner](https://jobs.gartner.com/jobs/job/78055-consulting-mba-masters-2024-summer-associate-program-graduation-date-dec-2024-june-2025/?source=JB-10126)|Arlington, VA|Consulting MBA/Masters Summer Associate Program|
 |[RSM](https://jobs.rsmus.com/job/17598319/tax-technology-intern-summer-2024-new-york-ny/)| New York, NY|Tax Technology Intern|
 |[RSM](https://jobs.rsmus.com/job/17580684/oracle-netsuite-consulting-intern-summer-2024-boston-ma/)|Baltimore, MA|Oracle NetSuite Consulting Intern|
+|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)|Multiple Locations|Summer Analyst Program|
 
 ## Other Semesters
 [Fall 2023](https://github.com/bsovs/Fall2023-Internships)
