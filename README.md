@@ -1,7 +1,7 @@
 # Summer2024-Internships
 Collection of Summer 2024 Internships! Although this is maily my personal list that I find, please feel free to use and contribute to this list. I will try to keep this page updated and maintained. 
 
-Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](https://github.com/pittcsc) for developing the inital framework and list.** 
+Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](https://github.com/pittcsc)** for developing the inital framework and list.
 
 ---
 
