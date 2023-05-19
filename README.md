@@ -43,7 +43,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 			Parker Dewey offers short-term paid, professional projects.
 			<br>
 			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/parker_iptrl6.jpg" width="250"  alt="Parker">
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/parker_iptrl6.jpg" width="200"  alt="Parker">
 			</div>
 		</a>
 		<sub><i>Open to all college studnets and recent graduates.</i></sub>
