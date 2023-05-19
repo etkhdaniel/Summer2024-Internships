@@ -58,7 +58,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 			Open Avenues offers paid micro-internships for students.
 			<br>
 			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/openave_aqgpg9.jpg" width="450"  alt="Parker">
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/openave_aqgpg9.jpg" width="550"  alt="Parker">
 			</div>
 		</a>
 		<sub><i>Open to all college studnets and recent graduates.</i></sub>
@@ -73,7 +73,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 			Forage offers bite sized work experience opportunities to students.
 			<br>
 			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/forage_x1hxfq.jpg" width="450"  alt="Parker">
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/forage_x1hxfq.jpg" width="200"  alt="Parker">
 			</div>
 		</a>
 		<sub><i>Build your resume, experience what real work looks like, and learn critical skills.</i></sub>
