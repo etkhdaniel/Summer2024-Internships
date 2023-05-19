@@ -25,7 +25,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 		<a href="https://simplify.jobs/?invite=2d8fe25021b&utm_source=referral">
 			<b>Can't find an internship? Try short remote externships partnered with Fortune 100 companies to gain industry-relevant skills in 6 to 8 weeks</b>
 			<br>
-			Paragon One creates externships together with each host company. Company training, projects, and meeting agendas are carefully crafted in collaboration between Paragon and the Host Company. The Paragon One team will manage your Weekly Check Ins with students and Company Meetings. We will be your primary point of contact to support you throughout the externship experience.
+			Paragon One creates externships together with each host company. Company training, projects, and meeting agendas are carefully crafted in collaboration between Paragon and the Host Company. The Paragon One team will manage your Weekly Check Ins with students and Company Meetings.
 			<br>
 			<div>
 				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/paragon_doxoz5.jpg" width="450"  alt="Simplify">
