@@ -28,10 +28,25 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 			Try short remote externships partnered with Fortune 100 companies to gain industry-relevant skills in 6 to 8 weeks.
 			<br>
 			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/paragon_doxoz5.jpg" width="450"  alt="Simplify">
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/paragon_doxoz5.jpg" width="450"  alt="Paragon">
 			</div>
 		</a>
 		<sub><i>All externships take 10-15 hours each week to be successful in the program. This encompasses the time spent learning and completing training, researching, and attending meetings. All externships are 6-8 weeks long. Be sure to check each program for its duration.</i></sub>
+	</p>
+</div>
+<br>
+<div align="center">
+	<p>
+		<a href="https://www.parkerdewey.com/">
+			<b>Want a micro-internship?</b>
+			<br>
+			Parker Dewey offers short-term paid, professional projects.
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/Parker_Dewey_Logo_awngwq.jpg" width="450"  alt="Parker">
+			</div>
+		</a>
+		<sub><i>Open to all college studnets and recent graduates.</i></sub>
 	</p>
 </div>
 
