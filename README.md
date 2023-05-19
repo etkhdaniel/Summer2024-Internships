@@ -4,7 +4,7 @@ Collection of Summer 2024 Internships! Although this is maily my personal list t
 Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](https://github.com/pittcsc)** for developing the inital framework and list.
 
 ---
-
+## Extra Resources 
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?invite=2d8fe25021b&utm_source=referral">
@@ -20,6 +20,21 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 	</p>
 </div>
 
+<div align="center">
+	<p>
+		<a href="https://www.paragonone.com/externships>
+			 <b>Can't find an internship? Try short remote externships partnered with Fortune 100 companies to gain industry-relevant skills in 6 to 8 weeks</b>
+			 <br>
+			 Paragon One creates externships together with each host company. Company training, projects, and meeting agendas are carefully crafted in collaboration between Paragon and the Host Company. The Paragon One team will manage your Weekly Check Ins with students and Company Meetings. We will be your primary point of contact to support you throughout the externship experience.
+			 <br>
+			 <div>
+			 	<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/paragon_doxoz5.jpg" width="450" alt="Paragon">
+			 </div>
+		</a>
+		<sub><i>All externships take 10-15 hours each week to be successful in the program. This encompasses the time spent learning and completing training, researching, and attending meetings. All externships are 6-8 weeks long. Be sure to check each program for its duration.</i></sub>
+	</p>
+</div>
+																	 
 ---
 
 To contribute:
