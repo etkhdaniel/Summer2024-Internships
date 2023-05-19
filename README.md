@@ -49,7 +49,21 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 		<sub><i>Open to all college studnets and recent graduates.</i></sub>
 	</p>
 </div>
-
+<br>
+<div align="center">
+	<p>
+		<a href="https://www.openavenuesfoundation.org/micro-internships">
+			<b>Want a micro-internship?</b>
+			<br>
+			Open Avenues offers paid micro-internships for students.
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/openave_aqgpg9.jpg" width="450"  alt="Parker">
+			</div>
+		</a>
+		<sub><i>Open to all college studnets and recent graduates.</i></sub>
+	</p>
+</div>
 
 																	 
 ---
