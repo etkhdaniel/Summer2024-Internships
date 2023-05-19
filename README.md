@@ -34,20 +34,21 @@ To contribute:
 
 🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!**  🤗
 
-:warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
+:warning: **This repository is only for internships in the United States or for Remote positions :earth_americas:.**
 
 ## The List 👔
 
 | Company       | Location       | Position Name                         |
 |---------------|----------------|---------------------------------------|
-|[GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073)|Louisville, KY|Digital Technology Intern|
-|[PIMCO](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876)|Newport Beach, CA|Software Engineering Intern|
-|[Walmart](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Software-Engineer-II--Bentonville--AR-_R-1391200?source=Job_Board_Indeed_Organic_Feed&_ccid=1684448457272t82ipxaze&ittk=VHURZ0NRDH)|Bentonville, AR           |Software Engineer II Intern|
-|[KPMG](https://www.kpmguscareers.com/jobdetail/?jobId=102392&srcCat=Internet&specSrc=Indeed)|Multiple Locations|Embark Scholar Intern - IT/Engineering|
+|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB)|Americas|Summer Internship Program|
+|[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002)|Westport, CT|Investment Engineer Intern|
 |[Gartner](https://jobs.gartner.com/jobs/job/78055-consulting-mba-masters-2024-summer-associate-program-graduation-date-dec-2024-june-2025/?source=JB-10126)|Arlington, VA|Consulting MBA/Masters Summer Associate Program|
+|[GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073)|Louisville, KY|Digital Technology Intern|
+|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)|Multiple Locations|Summer Analyst Program|
+|[KPMG](https://www.kpmguscareers.com/jobdetail/?jobId=102392&srcCat=Internet&specSrc=Indeed)|Multiple Locations|Embark Scholar Intern - IT/Engineering|
+|[PIMCO](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876)|Newport Beach, CA|Software Engineering Intern|
 |[RSM](https://jobs.rsmus.com/job/17598319/tax-technology-intern-summer-2024-new-york-ny/)| New York, NY|Tax Technology Intern|
 |[RSM](https://jobs.rsmus.com/job/17580684/oracle-netsuite-consulting-intern-summer-2024-boston-ma/)|Baltimore, MA|Oracle NetSuite Consulting Intern|
-|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)|Multiple Locations|Summer Analyst Program|
-
+|[Walmart](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Software-Engineer-II--Bentonville--AR-_R-1391200?source=Job_Board_Indeed_Organic_Feed&_ccid=1684448457272t82ipxaze&ittk=VHURZ0NRDH)|Bentonville, AR|Software Engineer II Intern|
 ## Other Semesters
 [Fall 2023](https://github.com/bsovs/Fall2023-Internships)
