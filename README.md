@@ -20,6 +20,20 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 	</p>
 </div>
 
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?invite=2d8fe25021b&utm_source=referral">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450"  alt="Simplify">
+			</div>
+		</a>
+		Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.
+	</p>
+</div>
 
 <div align="center">
 	<p>
