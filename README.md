@@ -50,7 +50,7 @@ To contribute:
 |[PIMCO](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876)|Newport Beach, CA|Software Engineering Intern|
 |[RSM](https://jobs.rsmus.com/job/17598319/tax-technology-intern-summer-2024-new-york-ny/)| New York, NY|Tax Technology Intern|
 |[RSM](https://jobs.rsmus.com/job/17580684/oracle-netsuite-consulting-intern-summer-2024-boston-ma/)|Baltimore, MA|Oracle NetSuite Consulting Intern|
-|Schneider Downs|[Columbus, OH](https://schneiderdowns.csod.com/ux/ats/careersite/10/home/requisition/1097?c=schneiderdowns&source=LINKEDIN) [Pittsburgh, PA](https://schneiderdowns.csod.com/ux/ats/careersite/10/home/requisition/1098?c=schneiderdowns&source=LINKEDIN)|IT Risk Advisory Intern|
+|Schneider Downs|[Columbus, OH](https://schneiderdowns.csod.com/ux/ats/careersite/10/home/requisition/1097?c=schneiderdowns&source=LINKEDIN)<br \>[Pittsburgh, PA](https://schneiderdowns.csod.com/ux/ats/careersite/10/home/requisition/1098?c=schneiderdowns&source=LINKEDIN)|IT Risk Advisory Intern|
 |[UPMC](https://careers.upmc.com/job/18118043/?source=upmc_CareerWebSite)|Pennsylvania, USA|Summer Associate - Information Technology Intern|
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Software-Engineer-II--Bentonville--AR-_R-1391200?source=Job_Board_Indeed_Organic_Feed&_ccid=1684448457272t82ipxaze&ittk=VHURZ0NRDH)|Bentonville, AR|Software Engineer II Intern|
 |[Wipfli](https://careers.wipfli.com/jobs/category/entry-level-internships#/search?query=audit%20intern-summer%202024)|Montana, USA|Audit Intern|
