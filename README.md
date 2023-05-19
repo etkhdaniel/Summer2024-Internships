@@ -19,7 +19,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
 </div>
-
+---
 <div align="center">
 	<p>
 		<a href="https://www.paragonone.com/externships>
