@@ -28,7 +28,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 			Autofill all your applications in a single click.
 			<br>
 			<div>
-				<img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450"  alt="Simplify">
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/paragon_doxoz5.jpg" width="450"  alt="Simplify">
 			</div>
 		</a>
 		All externships take 10-15 hours each week to be successful in the program. This encompasses the time spent learning and completing training, researching, and attending meetings. All externships are 6-8 weeks long. Be sure to check each program for its duration.
