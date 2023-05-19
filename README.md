@@ -48,7 +48,7 @@ To contribute:
 |[BDO USA](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/1089)|New York, NY|IS Assurance Intern|
 |[BDO USA](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/301)|Raleigh, NC|IS Assurance Intern|
 |[BDO USA](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/791)|San Diego, SC|IS Assurance Intern|
-|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB)|Americas|Summer Internship Program|
+|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB)|Multiple Locations|Summer Internship Program|
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002)|Westport, CT|Investment Engineer Intern|
 |[Gartner](https://jobs.gartner.com/jobs/job/78055-consulting-mba-masters-2024-summer-associate-program-graduation-date-dec-2024-june-2025/?source=JB-10126)|Arlington, VA|Consulting MBA/Masters Summer Associate Program|
 |[GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073)|Louisville, KY|Digital Technology Intern|
