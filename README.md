@@ -54,10 +54,7 @@ To contribute:
 |[Schneider Downs](https://schneiderdowns.csod.com/ux/ats/careersite/10/home/requisition/1098?c=schneiderdowns&source=LINKEDIN)|Pittsburgh, PA|IT Risk Advisory Intern|
 |[UPMC](https://careers.upmc.com/job/18118043/?source=upmc_CareerWebSite)|Pennsylvania, USA|Summer Associate - Information Technology Intern|
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Software-Engineer-II--Bentonville--AR-_R-1391200?source=Job_Board_Indeed_Organic_Feed&_ccid=1684448457272t82ipxaze&ittk=VHURZ0NRDH)|Bentonville, AR|Software Engineer II Intern|
-|[Wipfli](https://careers.wipfli.com/jobs/entry-level-internships/us-mt-billings/audit-internship-summer-2024/5305?group=1899&mode=job&iis=LinkedIn#/)|Billings, MT|Audit Intern|
-|[Wipfli](https://careers.wipfli.com/jobs/entry-level-internships/us-mt-bozeman/audit-internship-summer-2024/5304?group=1899&mode=job&iis=LinkedIn#/)|Bozeman, MT|Audit Intern|
-|[Wipfli](https://careers.wipfli.com/jobs/entry-level-internships/us-mt-great-falls/audit-internship-summer-2024/5307?request_id=c558a8f4-0719-4b27-ac75-7e76492d109e:APAb7IRNmYSFgi2mae7ShGU2AtaRxUgo2Q==#/)|Great Falls, MT|Audit Intern|
-|[Wipfli](https://careers.wipfli.com/jobs/entry-level-internships/us-mt-missoula/audit-internship-summer-2024/5303?request_id=c558a8f4-0719-4b27-ac75-7e76492d109e:APAb7IRNmYSFgi2mae7ShGU2AtaRxUgo2Q==#/)|Missoula, MT|Audit Intern|
+|[Wipfli](https://careers.wipfli.com/jobs/category/entry-level-internships#/search?query=audit%20intern-summer%202024)|Montana, USA|Audit Intern|
 
 ## Other Semesters
 [Fall 2023](https://github.com/bsovs/Fall2023-Internships)
