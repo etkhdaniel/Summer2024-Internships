@@ -43,7 +43,7 @@ To contribute:
 |[BDO USA](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/requisitions?keyword=is+assurance+intern&mode=location)|Multiple Locations|IS Assurance Intern|
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB)|Multiple Locations|Summer Internship Program|
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002)|Westport, CT|Investment Engineer Intern|
-|[Evercore](https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1647-2024-Investment-Banking-Summer-Analyst-Program-New-York-Houston-Menlo-Park-Chicago-Toronto/en-GB)|Multiple Locations|Investment Banking Intern (Technology)|
+|[Evercore](https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1647-2024-Investment-Banking-Summer-Analyst-Program-New-York-Houston-Menlo-Park-Chicago-Toronto/en-GB)|Multiple Locations|Investment Banking Summer Analyst Program Intern (Technology)|
 |[Gartner](https://jobs.gartner.com/jobs/job/78055-consulting-mba-masters-2024-summer-associate-program-graduation-date-dec-2024-june-2025/?source=JB-10126)|Arlington, VA|Consulting MBA/Masters Summer Associate Program|
 |[GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073)|Louisville, KY|Digital Technology Intern|
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)|Multiple Locations|Summer Analyst Program|
