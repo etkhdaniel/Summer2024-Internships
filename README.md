@@ -93,7 +93,8 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 		</a>
 		<sub><i>Connect with professionals to gain career, industry, and interview guidance. Receive currated projects and internship offers based on interests and experiences.</i></sub>
 	</p>
-</div>																	 
+</div>	
+
 ---
 
 To contribute:
