@@ -88,7 +88,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 			Skilbi helps connect students with mentors, projects, and events.
 			<br>
 			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/skilbi_a7g63z.jpg" width="450"  alt="Skilbi">
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/skilbi_a7g63z.jpg" width="200"  alt="Skilbi">
 			</div>
 		</a>
 		<sub><i>Connect with professionals to gain career, industry, and interview guidance. Receive currated projects and internship offers based on interests and experiences.</i></sub>
