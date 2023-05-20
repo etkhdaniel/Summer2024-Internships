@@ -116,8 +116,7 @@ To contribute:
 |[KPMG](https://www.kpmguscareers.com/jobdetail/?jobId=102392&srcCat=Internet&specSrc=Indeed)|Multiple Locations|Embark Scholar Intern - IT/Engineering|
 |[NOMURA](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-4d1d7ccfc78f/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB)|New York, NY|Information Technology Summer Analyst|
 |[PIMCO](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876)|Newport Beach, CA|Software Engineering Intern|
-|[RSM](https://jobs.rsmus.com/job/17598319/tax-technology-intern-summer-2024-new-york-ny/)| New York, NY|Tax Technology Intern|
-|[RSM](https://jobs.rsmus.com/job/17580684/oracle-netsuite-consulting-intern-summer-2024-boston-ma/)|Baltimore, MA|Oracle NetSuite Consulting Intern|
+|[RSM]|New York, NY<br />Baltimore, MA|[Tax Technology Intern](https://jobs.rsmus.com/job/17598319/tax-technology-intern-summer-2024-new-york-ny/)<br />[Oracle NetSuite Consulting Intern](https://jobs.rsmus.com/job/17580684/oracle-netsuite-consulting-intern-summer-2024-boston-ma/)|
 |Schneider Downs|[Columbus, OH](https://schneiderdowns.csod.com/ux/ats/careersite/10/home/requisition/1097?c=schneiderdowns&source=LINKEDIN) <br /> [Pittsburgh, PA](https://schneiderdowns.csod.com/ux/ats/careersite/10/home/requisition/1098?c=schneiderdowns&source=LINKEDIN)|IT Risk Advisory Intern|
 |[UPMC](https://careers.upmc.com/job/18118043/?source=upmc_CareerWebSite)|Pennsylvania, USA|Summer Associate - Information Technology Intern|
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Software-Engineer-II--Bentonville--AR-_R-1391200?source=Job_Board_Indeed_Organic_Feed&_ccid=1684448457272t82ipxaze&ittk=VHURZ0NRDH)|Bentonville, AR|Software Engineer II Intern|
