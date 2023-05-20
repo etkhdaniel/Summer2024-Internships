@@ -106,7 +106,7 @@ To contribute:
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002)|Westport, CT|Investment Engineer Intern|
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-summer-internship-2024-us/)|Miami, FL|Trading Fundamental Analyst|
 |[Crowe](https://crowe.recsolu.com/jobs/hjiJ8DEXaT8tcPWWgCKW_g?job_board_id=WB2bjvZ0DnUiIiTm6amL_g)|Multiple Locations|Digital Security Intern|
-|[Deloitte](https://www.atlantacareerpath.com/jobs/search?id=2501886707&aff=E0D36532-294B-45B3-8AAF-62F9036F878A&tx=QR5465FPF&pt=1&rgv=3&ssm=1&mlp=1)|Atlanta, GA|Discovery Intern (Freshman)|
+|[Deloitte](https://www.atlantacareerpath.com/jobs/search?id=2501886707&aff=E0D36532-294B-45B3-8AAF-62F9036F878A&tx=QR5465FPF&pt=1&rgv=3&ssm=1&mlp=1)|Multiple Locations|Discovery Intern (Freshman)|
 |[Evercore](https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1647-2024-Investment-Banking-Summer-Analyst-Program-New-York-Houston-Menlo-Park-Chicago-Toronto/en-GB)|Multiple Locations|Investment Banking Summer Analyst Program Intern (Technology)|
 |[Gartner](https://jobs.gartner.com/jobs/job/78055-consulting-mba-masters-2024-summer-associate-program-graduation-date-dec-2024-june-2025/?source=JB-10126)|Arlington, VA|Consulting MBA/Masters Summer Associate Program|
 |[GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073)|Louisville, KY|Digital Technology Intern|
