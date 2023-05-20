@@ -20,6 +20,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 	</p>
 </div>
 <br>
+--------------------------
 <div align="center">
 	<p>
 		<a href="https://www.paragonone.com/externships">
@@ -35,6 +36,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 	</p>
 </div>
 <br>
+-------------------------------------
 <div align="center">
 	<p>
 		<a href="https://www.parkerdewey.com/">
