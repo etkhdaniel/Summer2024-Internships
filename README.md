@@ -113,6 +113,7 @@ To contribute:
 |[GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073)|Louisville, KY|Digital Technology Intern|
 |[Genuine Parts Company](https://jobs.genpt.com/job/irondale/software-developer-intern/505/46311811760)|Irondale, AL|Software Developer Intern|
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)|Multiple Locations|Summer Analyst Program|
+|[Grant Thornton](https://lensa.com/cpc/v1/jd/0187fd6d4f07e653d62b83a4773ba4a5145cd5715154631d2649a4cd908a49eb?SC=F&BS=M&EX=F#)|Bellevue, WA|Risk Advisory Intern|
 |[KPMG](https://www.kpmguscareers.com/jobdetail/?jobId=102392&srcCat=Internet&specSrc=Indeed)|Multiple Locations|Embark Scholar Intern - IT/Engineering|
 |[NOMURA](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-4d1d7ccfc78f/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB)|New York, NY|Information Technology Summer Analyst|
 |[PIMCO](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876)|Newport Beach, CA|Software Engineering Intern|
