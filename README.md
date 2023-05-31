@@ -125,6 +125,8 @@ To contribute:
 
 :warning: **This repository is only for internships in the United States or for Remote positions :earth_americas:.**
 
+Learn to build an application from scratch with [project based learning](https://github.com/practical-tutorials/project-based-learning). 
+
 ## The List 👔
 
 | Company       | Location       | Position Name                         |
