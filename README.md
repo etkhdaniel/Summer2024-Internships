@@ -136,8 +136,8 @@ Learn to build an application from scratch with [project based learning](https:/
 |[Baker Tilly US](https://careers.bakertilly.com/jobs/21216/job?iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)|Tysons, VA|Risk Advisory Consulting Intern|
 |[Berkowitz Pollack Brant Advisors](https://jobs.jobvite.com/bpbcareers/job/oonSmfwJ)|Fort Lauderdale, FL|Managed Solutions & Technology Intern|
 |[BDO USA](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/requisitions?keyword=is+assurance+intern&mode=location)|Multiple Locations|IS Assurance Intern|
-[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/xf-c94000ac8842/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB)|Jersey City, NJ|Summer Analyst Intern|
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB)|Multiple Locations|Summer Internship Program|
+|[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/xf-c94000ac8842/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB)|Jersey City, NJ|Summer Analyst Intern|
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002)|Westport, CT|Investment Engineer Intern|
 |Central Intelligence Agency|Multiple Locations|[Undergraduate Scholarship Program](https://www.cia.gov/careers/student-programs/undergraduate-scholarship-program/)<br />[Graduate Scholaship Program](https://www.cia.gov/careers/student-programs/graduate-scholarship-program/)|
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-summer-internship-2024-us/)|Miami, FL|Trading Fundamental Analyst|
