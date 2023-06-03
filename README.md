@@ -149,7 +149,7 @@ Learn to build an application from scratch with [project based learning](https:/
 |[Epic](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429)|Madison, WI|Software Developer Intern|
 |[Evercore](https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1647-2024-Investment-Banking-Summer-Analyst-Program-New-York-Houston-Menlo-Park-Chicago-Toronto/en-GB)|Multiple Locations|Investment Banking Summer Analyst Program Intern (Technology)|
 |[Gartner](https://jobs.gartner.com/jobs/job/78055-consulting-mba-masters-2024-summer-associate-program-graduation-date-dec-2024-june-2025/?source=JB-10126)|Arlington, VA|Consulting MBA/Masters Summer Associate Program|
-|[GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073)|Louisville, KY|Digital Technology Intern|
+|GE Appliances|Louisville, KY|**🔒 Closed 🔒** Digital Technology Intern|
 |[Genuine Parts Company](https://jobs.genpt.com/job/irondale/software-developer-intern/505/46311811760)|Irondale, AL|Software Developer Intern|
 |[Global Atlantic Financial Group](https://boards.greenhouse.io/ghd/jobs/5030173?gh_src=44c3f73a1us)|Multiple Locations|Summer Internship Program (Technology)|
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)|Multiple Locations|Summer Analyst Program|
