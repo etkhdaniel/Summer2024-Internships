@@ -25,7 +25,7 @@ Shoutout to GitHub user **[bsvos](https://github.com/bsovs)** and **[PittCSC](ht
 		<a href="https://www.paragonone.com/externships">
 			<b>Can't find an internship?</b>
 			<br>
-			Try short remote externships partnered with Fortune 100 companies to gain industry-relevant skills in 6 to 8 weeks.
+			Try short remote externships partnered with Fortune 1000 companies to gain industry-relevant skills in 6 to 8 weeks.
 			<br>
 			<div>
 				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/paragon_doxoz5.jpg" width="450"  alt="Paragon">
