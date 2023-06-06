@@ -144,6 +144,7 @@ Learn to build an application from scratch with [project based learning](https:/
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002)|Westport, CT|Investment Engineer Intern|
 |[Capstone Investment Advisors](https://www.capstoneco.com/careers/2024-summer-internship-software-engineer-2/?gh_jid=6784275002)|New York, NY|Software Engineering Intern|
 |Central Intelligence Agency|Multiple Locations|[Undergraduate Scholarship Program](https://www.cia.gov/careers/student-programs/undergraduate-scholarship-program/)<br />[Graduate Scholaship Program](https://www.cia.gov/careers/student-programs/graduate-scholarship-program/)|
+|[CertiK](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40)|Multiple Locations|Platform Engineering Intern|
 |[Chesapeake Bay Trading](https://chesapeake-trading.us.to/careers)|Multiple Locations|Full-Stack Developer Intern|
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-summer-internship-2024-us/)|Miami, FL|Trading Fundamental Analyst|
 |[Crowe](https://crowe.recsolu.com/jobs/hjiJ8DEXaT8tcPWWgCKW_g?job_board_id=WB2bjvZ0DnUiIiTm6amL_g)|Multiple Locations|Digital Security Intern|
