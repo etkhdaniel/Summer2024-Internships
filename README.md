@@ -133,6 +133,7 @@ Learn to build an application from scratch with [project based learning](https:/
 |---------------|----------------|---------------------------------------|
 |[Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00155153_en&title=Federal+-+Software+Engineering+Intern)|Tampa, FL|Federal - Software Engineering Intern|
 |Agot|Pittsburgh, PA|[Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec)<br/>[Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6)|
+|[Apple](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships?team=STDNT)|Multiple Locations|Software Engineering Intern|
 |[Armanino](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Dallas-Texas/Summer-2024-IT-Audit-Intern--Dallas-_JR100441?source=Linkedin)|Dever, CO|IT Audit Intern|
 |Bank of America|Multiple Locations|[Global Technology Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-867bcf9954db/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB)<br/>[Global Quantitative Analystics Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-571d86188311/candidate/so/pm/1/pl/1/opp/10169-Global-Quantitative-Analytics-Summer-2024-Analyst/en-GB)|
 |[Baker Tilly US](https://careers.bakertilly.com/jobs/21216/job?iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)|Tysons, VA|Risk Advisory Consulting Intern|
