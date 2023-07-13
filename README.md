@@ -169,7 +169,7 @@ Learn to build an application from scratch with [project based learning](https:/
 |PIMCO|Newport Beach, CA|**🔒 Closed 🔒**Software Engineering Intern|
 |[Protiviti](https://www.ziprecruiter.com/c/Protiviti/Job/Atlanta-Technology-Consulting-Intern-2024/-in-Atlanta,GA?jid=757b74075d6c3103)|Atlanta, GA|Atlanta Technology Consulting Intern|
 |Ramp|Multiple Locations|[Software Engineering Intern - Android](https://boards.greenhouse.io/ramp/jobs/6726450002)<br/>[Software Engineering Intern - Backend](https://boards.greenhouse.io/ramp/jobs/5083064002)<br/>[Software Engineering Intern - Frontend](https://boards.greenhouse.io/ramp/jobs/4820594002)<br/>[Software Engineering Intern - iOS](https://boards.greenhouse.io/ramp/jobs/6729438002)|
-|Redvest|Remote|Mutiple Positions|[Apply](https://www.redvest.app/apply)|
+|[Redvest](https://www.redvest.app/apply)|Remote|Mutiple Positions|
 |RSM|Baltimore, MA<br/>New York, NY|[Tax Technology Intern](https://jobs.rsmus.com/job/17598319/tax-technology-intern-summer-2024-new-york-ny/)<br />[Oracle NetSuite Consulting Intern](https://jobs.rsmus.com/job/17580684/oracle-netsuite-consulting-intern-summer-2024-boston-ma/)|
 |Schneider Downs|[Columbus, OH](https://schneiderdowns.csod.com/ux/ats/careersite/10/home/requisition/1097?c=schneiderdowns&source=LINKEDIN) <br /> [Pittsburgh, PA](https://schneiderdowns.csod.com/ux/ats/careersite/10/home/requisition/1098?c=schneiderdowns&source=LINKEDIN)|IT Risk Advisory Intern|
 |[UPMC](https://careers.upmc.com/job/18118043/?source=upmc_CareerWebSite)|Pennsylvania, USA|Summer Associate - Information Technology Intern|
